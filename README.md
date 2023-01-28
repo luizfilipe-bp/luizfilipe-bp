@@ -1,5 +1,29 @@
-### Hi there 👋
 
+<div align="center">
+  <h2>Hello 👋, I'm Luiz Filipe</h2>
+  <h4>🇧🇷 Estudante de Ciência da Computação na Universidade Federal de Lavras</h4>
+  <h4>🌎 Computer Science student at Federal University of Lavras</h4>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfilipe-bp&count_private=true&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipe-bp&layout=compact&langs_count=8&theme=dark">
+</div>
+
+
+<div>
+  <h3 align="left">Find me on:</h3>
+  <a href="https://www.linkedin.com/in/luizfbartelega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+</div>
+                  
+<div>
+  <h3 align="left">Languages:</h3>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+                  
+</div>
 <!--
 **luizfilipe-bp/luizfilipe-bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
