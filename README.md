@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Hello 👋, I'm Luiz Filipe</h2>
+  <h1>Hello 👋, I'm Luiz Filipe</h1>
   <h4>🇧🇷 Estudante de Ciência da Computação na Universidade Federal de Lavras</h4>
   <h4>🌎 Computer Science student at Federal University of Lavras</h4>
 </div>
