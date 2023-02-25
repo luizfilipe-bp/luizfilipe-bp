@@ -4,10 +4,10 @@
   <h4>🇧🇷 Estudante de Ciência da Computação na Universidade Federal de Lavras</h4>
   <h4>🌎 Computer Science student at Federal University of Lavras</h4>
 </div>
-https://github-readme-stats-luizfilipe-bp.vercel.app/
+<https://github-readme-stats-luizfilipe-bp.vercel.app/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-luizfilipe-bp.vercel.app/api?username=luizfilipe-bp&count_private=true&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats-luizfilipe-bp.vercel.app/api/top-langs/?username=luizfilipe-bp&layout=compact&langs_count=8&theme=dark">
+  <img height="180em" src="https://github-readme-stats-luizfilipe-bp.vercel.app/api/top-langs/?username=luizfilipe-bp&count_private=true&layout=compact&langs_count=8&theme=dark">
 </div>
 
 
